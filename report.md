@@ -1,0 +1,1 @@
+In todays lab, I learnt how to interact with Git & GitHub. I learnt how to create a repo and clone it locally. I then learnt how to stage my changes, and commit them to the remote repo. Furthermore, I got good practice of commiting several more change. Finally, I hosted my repo on Github Pages.
